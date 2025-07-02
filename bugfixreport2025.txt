@@ -1,0 +1,3 @@
+Bugfix-Report 2025: Erste Notizen und Ideen.
+- [x] Fehler A behoben
+- [ ] Fehler B analysieren
